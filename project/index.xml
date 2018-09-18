@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
+      <title>Diversity and host specificity of Populus and Pine mycobiome</title>
       <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/project/example-external-project/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Oomycetes associated with field crops</title>
+      <link>/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/deep-learning/</guid>
+      <description>In the United States, soybeans are produced on 76 million acres of highly productive land, but can be severely impacted by diseases caused by oomycetes. Oomycetes are part of the microbial community that is associated with plant roots and the rhizosphere, which is a dynamic and complex environment subject to the interaction of different microbes and abiotic factors that could affect the outcome of the phytobiome interaction. Depending on environmental and edaphic conditions, some oomycete species will thrive causing root and seedling rot.</description>
     </item>
     
   </channel>
